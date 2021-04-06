@@ -14,7 +14,9 @@
     "bridge"
   ],
   "os": [
-    "darwin"
+    "darwin",
+    "linux",
+    "win32"
   ],
   "version": "2.1.0",
   "license": "MIT",
