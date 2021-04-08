@@ -34,7 +34,7 @@
     "setprototypeof": "^1.0.0"
   },
   "devDependencies": {
-    "libxmljs": "~0.14.3",
+    "libxmljs": "0.19.7",
     "dox": "0.3.x",
     "memwatch-next": "*",
     "highlight.js": "1",
