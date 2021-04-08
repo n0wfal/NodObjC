@@ -13,12 +13,6 @@
     "ffi",
     "bridge"
   ],
-  "os": [
-    "darwin",
-    "linux",
-    "win32",
-    "win64"
-  ],
   "version": "2.1.0",
   "license": "MIT",
   "author": "Nathan Rajlich <nathan@tootallnate.net> (http://tootallnate.net)",
